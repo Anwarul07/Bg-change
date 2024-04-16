@@ -42,7 +42,7 @@ main {
   width: 60%;
   margin: auto;
   line-height: 0;
-  background-image: url(/files/white2.jpg);
+  background-image: url(/files/done.jpeg);
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -58,10 +58,11 @@ span {
   left: 50%;
   height: 100%;
   cursor: ew-resize;
-  background: white;
+  background:white;
   position: absolute;
   left: 0;
   top: 0;
+
 }
 .arrow{
   width: 40px;
